@@ -98,3 +98,16 @@
     border: 2px solid hsl(220, 12%, 50%);
     color: hsl(220, 12%, 50%);
 }
+
+.g {
+    font-family: Arial, Sans;
+    background-color: hsl(220, 12%, 50%);
+    color: hsl(0, 0%, 100%);
+    transition: background .5s;
+}
+
+.g:hover {
+    background-color: hsl(226, 15%, 28%);
+    color: hsl(0, 0%, 100%);
+    transition: background .5s;
+}
